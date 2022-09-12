@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Acrítica HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/TVACr%C3%ADtica/live
+
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1506226532.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Nordestina HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/QDNfw7DdMbs/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal UOL HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/uol/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Band Jornalismo HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/bandjornalismo/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Fla TV HD (funciona quando tiver live)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/flamengo/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Euronews HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/JyC8mwZqJao/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Chaves 24h (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2I0eMDu2Qsk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Nasa Live Stream 24h (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/86YLFOog4GM/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Record News HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FKJQ5ioUJTk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV 247 HD (funciona quando tiver live)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/brasil247/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Canção Nova HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/tvcancaonova/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Justiça HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ncUZJKHlUQ8/live
+
+#EXTINF:-1 tvg-logo="" group-title="",PontoJus HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LAqkP1kudWk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Senado HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvsenado/live
+
