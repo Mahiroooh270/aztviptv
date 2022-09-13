@@ -71,3 +71,30 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txl_002tt
 
 #EXTINF:-1 tvg-logo="" group-title="",Canal 5 HD (sinal Twitch)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/8mk019dt?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Cultura HD 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1702712885.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TVE RS HD
+https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1341094408.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Aparecida HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/1KIucmaYkmU/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Cultura PR HD
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SIC Portugal HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Novo Tempo HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wxdR5F7ySdM/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Cidade de Aparecida 24h HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qKFd7p6oZKI/live
+
+#EXTINF:-1 tvg-logo="" group-title="",VTV SBT Campinas HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8Ywr1JnoI2E/live
+
+#EXTINF:-1 tvg-logo="" group-title="",SBT Pará HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/BAZ8tVEClZw/live
