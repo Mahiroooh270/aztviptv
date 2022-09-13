@@ -71,7 +71,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txl_002tt
 
 #EXTINF:-1 tvg-logo="" group-title="",Canal 5 HD (sinal Twitch)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/8mk019dt?tt_content=twitch_logo&tt_medium=embed/live
-
 #EXTINF:-1 tvg-logo="" group-title="",TV Cultura HD 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1702712885.m3u8
 
