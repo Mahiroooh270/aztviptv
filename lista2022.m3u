@@ -45,3 +45,29 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LAqkP1kudWk/li
 #EXTINF:-1 tvg-logo="" group-title="",TV Senado HD (sinal YouTube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvsenado/live
 
+#EXTINF:-1 tvg-logo="" group-title="",Boa Vontade TV HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/jTYD76rrbkw/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Mapa do Covid-19 24h - Live Stream (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/NMre6IAAAiU/live
+
+#EXTINF:-1 tvg-logo="" group-title="",CNN Brasil HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/CNNbrasil/live
+
+#EXTINF:-1 tvg-logo="" group-title="", Forró e Piseiro 24h - Sua Música HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/VYHHZsyOeBE/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Tlnovelas HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Las Estrellas HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/6ivm88v?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Univision HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/umv_310ll?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txl_002ttl?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 5 HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/8mk019dt?tt_content=twitch_logo&tt_medium=embed/live
